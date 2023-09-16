@@ -1,0 +1,16 @@
+{
+    "name": "lcarr/cqsp",
+    "description": "Example cqsp to help me try and learn this",
+    "autoload": {
+        "psr-4": {
+            "Lcarr\\Cqsp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lcarr99",
+            "email": "carrdrfc99@gmail.com"
+        }
+    ],
+    "require": {}
+}
